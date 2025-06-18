@@ -17,7 +17,7 @@ This system analyzes financial transactions to detect potential fraud using a tr
 📂 Dataset Source
 This project uses a financial transactions dataset sourced from Kaggle:
 
-🔗 Fraud Detection Dataset on Kaggle
+🔗 https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download
 
 You can download the dataset from the above link and place it in the project root directory as AIML Dataset.csv.
 
